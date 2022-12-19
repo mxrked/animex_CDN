@@ -10,7 +10,7 @@
   {
     "blogID": "#ID_002",
     "blogName": "Chainsaw Man is renewed for next season.",
-    "blogDate": "1/12/2023",
+    "blogDate": "2/9/2023",
     "blogDesc": "The popular shounen anime Chainsaw Man has been renewed for its next season from MAPPA studios.",
     "blogImg": "N/A",
     "blogAuthor": "1_4_All"
@@ -18,9 +18,17 @@
   {
     "blogID": "#ID_003",
     "blogName": "Spy X Family continues with movie and new season.",
-    "blogDate": "1/12/2023",
+    "blogDate": "3/20/2023",
     "blogDesc": "Spy X Family will be continuing the Forgers adventures in a new movie and a brand new season in 2023.",
     "blogImg": "N/A",
     "blogAuthor": "HermitPurple101"
+  },
+  {
+    "blogID": "#ID_004",
+    "blogName": "My Hero Academia gets Netflix adaptation.",
+    "blogDate": "4/2/2023",
+    "blogDesc": "Netflix is slated to provide the popular anime and manga series My Hero Academia with a live action adaptation.",
+    "blogImg": "N/A",
+    "blogAuthor": "RealTitanSlayer"
   }
 ]
